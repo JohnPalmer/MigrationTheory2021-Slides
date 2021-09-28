@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+	"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg  width="741.725" height="621.684" viewBox="0 0 741.725 621.684" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"  version="1.1">
+  <desc>Lekh Diagram</desc>
+  <path  stroke-linecap="round"  stroke-width="5.5" stroke="rgb(0, 0, 0)" fill="none" d=" M 88.7622,14.5535  L 89.8858,553.25  L 668.537,557.745 "/>
+  <path  stroke-linecap="round"  stroke-width="5.5" stroke="rgb(0, 0, 0)" fill="rgb(0, 0, 0)" d=" M 95.8857,25.25  L 88.7622,14.5535  L 79.8857,25.25  L 95.8857,25.25 "/>
+  <path  stroke-linecap="round"  stroke-width="5.5" stroke="rgb(0, 0, 0)" fill="rgb(0, 0, 0)" d=" M 656.886,549.25  L 668.537,557.745  L 656.886,565.25  L 656.886,549.25 "/>
+  <path  stroke-linecap="round"  stroke-width="5" stroke="rgb(39, 89, 172)" fill="none" d=" M 148.552,553.25  C 320.87,532.936 488.52,358.165 354.855,14.1151 "/>
+  <text  x="41.8857" y="273.25" style="font-size:20;  font-weight:bold;  fill:rgb(0, 0, 0);  stroke:rgb(0, 0, 0);  dominant-baseline: central; text-anchor: middle">wage</text>
+  <text  x="401.886" y="593.25" style="font-size:20;  font-weight:bold;  fill:rgb(0, 0, 0);  stroke:rgb(0, 0, 0);  dominant-baseline: central; text-anchor: middle">worker-hours</text>
+  <path  stroke-linecap="round"  stroke-width="5" stroke="rgb(77, 147, 18)" fill="none" d=" M 92.3003,16.7904  L 664.471,480.71 "/>
+  <text  x="697.886" y="481.25" style="font-size:20;  font-weight:bold;  fill:rgb(75, 142, 17);  stroke:rgb(75, 142, 17);  dominant-baseline: central; text-anchor: middle">VMPL</text>
+</svg>

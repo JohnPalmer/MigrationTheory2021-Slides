@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+	"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg  width="424" height="424" viewBox="0 0 424 424" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"  version="1.1">
+  <desc>Lekh Diagram</desc>
+  <ellipse  stroke-linecap="round"  stroke-width="2" stroke="rgb(78, 11, 209)" fill="rgb(77, 10, 209)" fill-opacity="0.145098" cx="212" cy="212"  rx="200" ry="200"/>
+  <ellipse  stroke-linecap="round"  stroke-width="2" stroke="rgb(95, 180, 22)" fill="rgb(95, 180, 21)" fill-opacity="0.172549" cx="116" cy="276"  rx="64" ry="64"/>
+  <path  stroke-linecap="round"  stroke-width="2" stroke="rgb(166, 95, 4)" fill="none" d=" M 196,292  L 132,292 "/>
+  <path  stroke-linecap="round"  stroke-width="2" stroke="rgb(166, 95, 4)" fill="rgb(166, 95, 4)" d=" M 140,285  L 132,292  L 140,297  L 140,285 "/>
+  <ellipse  stroke-linecap="round"  stroke-width="2" stroke="rgb(206, 118, 5)" fill="rgb(206, 118, 5)" fill-opacity="0.121569" cx="100" cy="292"  rx="24" ry="24"/>
+  <text  x="292" y="292" style="font-size:18;  fill:rgb(111, 63, 2);  stroke:rgb(111, 63, 2);  dominant-baseline: central; text-anchor: middle">International Migration</text>
+  <text  x="212" y="68" style="font-size:28;  font-weight:bold;  fill:rgb(78, 11, 209);  stroke:rgb(78, 11, 209);  dominant-baseline: central; text-anchor: middle">Human Mobility</text>
+  <text  x="116" y="244" style="font-size:21;  font-weight:bold;  fill:rgb(65, 123, 15);  stroke:rgb(65, 123, 15);  dominant-baseline: central; text-anchor: middle">Migration</text>
+</svg>

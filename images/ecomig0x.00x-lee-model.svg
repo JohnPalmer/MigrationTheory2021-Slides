@@ -1,0 +1,59 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+	"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg  width="779.497" height="428.227" viewBox="0 0 779.497 428.227" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"  version="1.1">
+  <desc>Lekh Diagram</desc>
+  <path  stroke-dasharray="2, 2"  stroke-linecap="round"  stroke-width="2" stroke="rgb(0, 0, 0)" fill="rgb(255, 255, 0)" fill-opacity="0.145098" d=" M 122.452,187  L 767.497,416.227  L 765.548,12  L 122.452,187 "/>
+  <ellipse  stroke-linecap="round"  stroke-width="2" stroke="rgb(78, 11, 209)" fill="rgb(210, 228, 252)" cx="124.5" cy="184.5"  rx="112" ry="112"/>
+  <ellipse  stroke-linecap="round"  stroke-width="2" stroke="rgb(130, 35, 135)" fill="rgb(129, 34, 135)" fill-opacity="0.286275" cx="620.5" cy="184.5"  rx="112" ry="112"/>
+  <text  x="84.5" y="120.5" style="font-size:40;  font-weight:bold;  fill:rgb(0, 175, 0);  stroke:rgb(0, 175, 0);  dominant-baseline: central; text-anchor: middle">+</text>
+  <text  x="580.5" y="120.5" style="font-size:40;  font-weight:bold;  fill:rgb(0, 175, 0);  stroke:rgb(0, 175, 0);  dominant-baseline: central; text-anchor: middle">+</text>
+  <text  x="556.5" y="184.5" style="font-size:40;  font-weight:bold;  fill:rgb(0, 175, 0);  stroke:rgb(0, 175, 0);  dominant-baseline: central; text-anchor: middle">+</text>
+  <text  x="60.5" y="184.5" style="font-size:40;  font-weight:bold;  fill:rgb(0, 175, 0);  stroke:rgb(0, 175, 0);  dominant-baseline: central; text-anchor: middle">+</text>
+  <text  x="596.5" y="240.5" style="font-size:40;  font-weight:bold;  fill:rgb(0, 175, 0);  stroke:rgb(0, 175, 0);  dominant-baseline: central; text-anchor: middle">+</text>
+  <text  x="676.5" y="160.5" style="font-size:40;  font-weight:bold;  fill:rgb(255, 0, 0);  stroke:rgb(255, 0, 0);  dominant-baseline: central; text-anchor: middle">-</text>
+  <text  x="100.5" y="240.5" style="font-size:40;  font-weight:bold;  fill:rgb(0, 175, 0);  stroke:rgb(0, 175, 0);  dominant-baseline: central; text-anchor: middle">+</text>
+  <text  x="628.5" y="112.5" style="font-size:40;  font-weight:bold;  fill:rgb(255, 0, 0);  stroke:rgb(255, 0, 0);  dominant-baseline: central; text-anchor: middle">-</text>
+  <text  x="68.5" y="216.5" style="font-size:40;  font-weight:bold;  fill:rgb(255, 0, 0);  stroke:rgb(255, 0, 0);  dominant-baseline: central; text-anchor: middle">-</text>
+  <text  x="668.5" y="128.5" style="font-size:40;  font-weight:bold;  fill:rgb(0, 175, 0);  stroke:rgb(0, 175, 0);  dominant-baseline: central; text-anchor: middle">+</text>
+  <text  x="180.5" y="160.5" style="font-size:40;  font-weight:bold;  fill:rgb(255, 0, 0);  stroke:rgb(255, 0, 0);  dominant-baseline: central; text-anchor: middle">-</text>
+  <text  x="620.5" y="208.5" style="font-size:40;  font-weight:bold;  fill:rgb(255, 0, 0);  stroke:rgb(255, 0, 0);  dominant-baseline: central; text-anchor: middle">-</text>
+  <text  x="148.5" y="232.5" style="font-size:40;  font-weight:bold;  fill:rgb(0, 175, 0);  stroke:rgb(0, 175, 0);  dominant-baseline: central; text-anchor: middle">+</text>
+  <text  x="684.5" y="224.5" style="font-size:40;  font-weight:bold;  fill:rgb(255, 0, 0);  stroke:rgb(255, 0, 0);  dominant-baseline: central; text-anchor: middle">-</text>
+  <text  x="132.5" y="112.5" style="font-size:40;  font-weight:bold;  fill:rgb(255, 0, 0);  stroke:rgb(255, 0, 0);  dominant-baseline: central; text-anchor: middle">-</text>
+  <text  x="620.5" y="160.5" style="font-size:40;  font-weight:bold;  fill:rgb(0, 175, 0);  stroke:rgb(0, 175, 0);  dominant-baseline: central; text-anchor: middle">+</text>
+  <text  x="124.5" y="160.5" style="font-size:40;  font-weight:bold;  fill:rgb(0, 175, 0);  stroke:rgb(0, 175, 0);  dominant-baseline: central; text-anchor: middle">+</text>
+  <text  x="644.5" y="232.5" style="font-size:40;  font-weight:bold;  fill:rgb(0, 175, 0);  stroke:rgb(0, 175, 0);  dominant-baseline: central; text-anchor: middle">+</text>
+  <text  x="172.5" y="128.5" style="font-size:40;  font-weight:bold;  fill:rgb(0, 175, 0);  stroke:rgb(0, 175, 0);  dominant-baseline: central; text-anchor: middle">+</text>
+  <text  x="564.5" y="216.5" style="font-size:40;  font-weight:bold;  fill:rgb(255, 0, 0);  stroke:rgb(255, 0, 0);  dominant-baseline: central; text-anchor: middle">-</text>
+  <text  x="188.5" y="224.5" style="font-size:40;  font-weight:bold;  fill:rgb(255, 0, 0);  stroke:rgb(255, 0, 0);  dominant-baseline: central; text-anchor: middle">-</text>
+  <text  x="124.5" y="208.5" style="font-size:40;  font-weight:bold;  fill:rgb(255, 0, 0);  stroke:rgb(255, 0, 0);  dominant-baseline: central; text-anchor: middle">-</text>
+  <text  x="124.5" y="320.5" style="font-family:ArialMT; font-size:30;  fill:rgb(0, 0, 0);  stroke:rgb(0, 0, 0);  dominant-baseline: central; text-anchor: middle">Origin</text>
+  <text  x="636.5" y="320.5" style="font-family:ArialMT; font-size:30;  fill:rgb(0, 0, 0);  stroke:rgb(0, 0, 0);  dominant-baseline: central; text-anchor: middle">Destination</text>
+  <text  x="372.5" y="200.5" style="font-family:ArialMT; font-size:15;  fill:rgb(0, 0, 0);  stroke:rgb(0, 0, 0);  dominant-baseline: central; text-anchor: middle">intervening obstacles</text>
+  <path  stroke-dasharray="2, 2"  stroke-linecap="round"  stroke-width="2" stroke="rgb(0, 0, 0)" fill="none" d=" M 236.501,24.5  L 236.499,312.5 "/>
+  <path  stroke-dasharray="2, 2"  stroke-linecap="round"  stroke-width="2" stroke="rgb(0, 0, 0)" fill="none" d=" M 177.909,40.9545  L 231.091,41.0455 "/>
+  <path  stroke-linecap="round"  stroke-width="2" stroke="rgb(0, 0, 0)" fill="rgb(0, 0, 0)" d=" M 185.5,35.5  L 177.909,40.9545  L 185.5,45.5  L 185.5,35.5 "/>
+  <text  x="268.5" y="64.5" style="font-family:ArialMT; font-size:15;  fill:rgb(0, 0, 0);  stroke:rgb(0, 0, 0);  dominant-baseline: central; text-anchor: middle">inertia</text>
+  <path  stroke-dasharray="2, 2"  stroke-linecap="round"  stroke-width="2" stroke="rgb(0, 0, 0)" fill="none" d=" M 177.909,72.4545  L 231.091,72.5455 "/>
+  <path  stroke-linecap="round"  stroke-width="2" stroke="rgb(0, 0, 0)" fill="rgb(0, 0, 0)" d=" M 185.5,66.5  L 177.909,72.4545  L 185.5,76.5  L 185.5,66.5 "/>
+  <path  stroke-dasharray="2, 2"  stroke-linecap="round"  stroke-width="2" stroke="rgb(0, 0, 0)" fill="none" d=" M 177.909,296.455  L 231.091,296.545 "/>
+  <path  stroke-linecap="round"  stroke-width="2" stroke="rgb(0, 0, 0)" fill="rgb(0, 0, 0)" d=" M 185.5,290.5  L 177.909,296.455  L 185.5,300.5  L 185.5,290.5 "/>
+  <ellipse  stroke-linecap="round"  stroke-width="2" stroke="rgb(255, 0, 0)" fill="rgb(255, 0, 0)" fill-opacity="0.211765" cx="265.932" cy="167.318"  rx="15.4773" ry="14.9091"/>
+  <text  x="265.932" y="167.318" style="font-size:30;  font-weight:bold;  fill:rgb(255, 0, 0);  stroke:rgb(255, 0, 0);  dominant-baseline: central; text-anchor: middle">-</text>
+  <path  stroke-linecap="round"  stroke-width="2" stroke="rgb(0, 0, 0)" fill="none" d=" M 240.5,184.5  L 504.5,184.5 "/>
+  <text  x="436.563" y="275.611" style="font-family:ArialMT; font-size:15;  fill:rgb(0, 0, 0);  stroke:rgb(0, 0, 0);  dominant-baseline: central; text-anchor: middle" transform="rotate(19.4275 436.563 275.611)">imperfect information</text>
+  <ellipse  stroke-linecap="round"  stroke-width="2" stroke="rgb(255, 0, 0)" fill="rgb(255, 0, 0)" fill-opacity="0.211765" cx="302.285" cy="167.455"  rx="15.6585" ry="15.0836"/>
+  <text  x="302.285" y="167.455" style="font-size:30;  font-weight:bold;  fill:rgb(255, 0, 0);  stroke:rgb(255, 0, 0);  dominant-baseline: central; text-anchor: middle">-</text>
+  <ellipse  stroke-linecap="round"  stroke-width="2" stroke="rgb(255, 0, 0)" fill="rgb(255, 0, 0)" fill-opacity="0.211765" cx="337.93" cy="167.251"  rx="15.6585" ry="15.0836"/>
+  <text  x="337.93" y="167.251" style="font-size:30;  font-weight:bold;  fill:rgb(255, 0, 0);  stroke:rgb(255, 0, 0);  dominant-baseline: central; text-anchor: middle">-</text>
+  <ellipse  stroke-linecap="round"  stroke-width="2" stroke="rgb(255, 0, 0)" fill="rgb(255, 0, 0)" fill-opacity="0.211765" cx="374.476" cy="166.897"  rx="15.6585" ry="15.0836"/>
+  <text  x="374.476" y="166.897" style="font-size:30;  font-weight:bold;  fill:rgb(255, 0, 0);  stroke:rgb(255, 0, 0);  dominant-baseline: central; text-anchor: middle">-</text>
+  <ellipse  stroke-linecap="round"  stroke-width="2" stroke="rgb(255, 0, 0)" fill="rgb(255, 0, 0)" fill-opacity="0.211765" cx="409.546" cy="167.281"  rx="15.6585" ry="15.0836"/>
+  <text  x="409.546" y="167.281" style="font-size:30;  font-weight:bold;  fill:rgb(255, 0, 0);  stroke:rgb(255, 0, 0);  dominant-baseline: central; text-anchor: middle">-</text>
+  <ellipse  stroke-linecap="round"  stroke-width="2" stroke="rgb(255, 0, 0)" fill="rgb(255, 0, 0)" fill-opacity="0.211765" cx="444.616" cy="167.296"  rx="15.6585" ry="15.0836"/>
+  <text  x="444.616" y="167.296" style="font-size:30;  font-weight:bold;  fill:rgb(255, 0, 0);  stroke:rgb(255, 0, 0);  dominant-baseline: central; text-anchor: middle">-</text>
+  <ellipse  stroke-linecap="round"  stroke-width="2" stroke="rgb(255, 0, 0)" fill="rgb(255, 0, 0)" fill-opacity="0.211765" cx="479.686" cy="167.31"  rx="15.6585" ry="15.0836"/>
+  <text  x="479.686" y="167.31" style="font-size:30;  font-weight:bold;  fill:rgb(255, 0, 0);  stroke:rgb(255, 0, 0);  dominant-baseline: central; text-anchor: middle">-</text>
+</svg>
